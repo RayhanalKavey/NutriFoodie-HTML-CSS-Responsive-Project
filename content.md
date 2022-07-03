@@ -2,7 +2,7 @@
 
 ## About NutriFoodie
 
-We are basically a online based company, and our major focur to deliver our customer nutritious food according to their diet plan. Most prople are not very much awar about their food nutrition because of their busy life, and other important activities. This might cause health consequences, so we want to take that responsibility to make sure their nutrition. Our AI will produce a healthy plan according to our customers diet plan. All they have to do, select the diet plan and boom. User can set their own plan for food and time for delivery. Users can use our app to select their diet and foods they like and dislike, and our AI algorithm will create a custom and individual weekly meal plan. But we don't stop there. We partner with restaurants and other cooking partners to actually cook and deliver all meals from the generated meal plans, in selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
+We are an online-based company, and our major focus is to deliver our customers nutritious food according to their diet plans. Most people are not very aware of their food nutrition because of their busy lives, and other important activities. This might cause health consequences, so we want to take that responsibility to make sure their nutrition. Our AI will produce a healthy plan according to our customer's diet plan. All they have to do is select the diet plan, and boom. User can set their plan for food and time for delivery. Users can use our app to select their diet and foods they like and dislike, and our AI algorithm will create a custom and individual weekly meal plan. But we don't stop there. We partner with restaurants and other cooking partners to cook and deliver all meals from the generated meal plans, in selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
 
 ## Branding
 
@@ -14,7 +14,7 @@ Brand color: #c8a67c #faf6d7 #f0c1aa
 
 ### Summary
 
-The smart weekly food subscription that will make you healthy. Customize your personal tastes and nutritional needs. We have delivered 16,000+ meals last year!
+The smart weekly food subscription that will make you healthy. Customize your tastes and nutritional needs. We delivered 16,000+ meals last year!
 
 ### NutriFoodie features
 
@@ -29,18 +29,18 @@ Pause anytime: Going on vacation? Just pause your subscription, and we refund un
 
 **Your daily dose of health in 3 simple steps**
 
-Stop wasting time and tell us your diet plan: Never waste time to think about nutritious food for your diet plan. Just tell us your, diet plan and we will make sure you will get all the nutrients and vitamins you need weekly.
+Stop wasting time and tell us your diet plan: Never waste time thinking about nutritious food for your diet plan. Just tell us your diet plan and we will make sure you will get all the nutrients and vitamins you need weekly.
 
-Approve your weekly meal plan: Approve the meal plan weekly according to your diet plan. But no worries you can change your diet plan at any time and start your new week. You can choose your own ingredients too to make your own plan.
+Approve your weekly meal plan: Approve the meal plan weekly according to your diet plan. But no worries you can change your diet plan at any time and start your new week. You can choose your ingredients too to make your plan.
 
-Receive meals at convenient time: Your meals will cooked daily and deliver to your door whenever suits best for you. You can remake delivery schedule and address at any time.
+Receive meals at a convenient time: Your meals will be cooked daily and delivered to your door whenever suits best for you. You can remake the delivery schedule and address at any time.
 
 ### Nutritive Foodie works with any diet
 
-Vegetables: Vegetables make up the largest portion on the plate, which is 40 percent. They contain minerals, vitamins and fiber.
+Vegetables: Vegetables make up the largest portion on the plate, which is 40 percent. They contain minerals, vitamins, and fiber.
 Protein: Proteins make up 20 percent of the plate.
 Grains: Grains comprise 30 percent of the plate and consist of complex carbs and vitamins.
-Fruit: Fruits make up 10 percent of the plate, which provide fiber and vitamins.
+Fruit: Fruits make up 10 percent of the plate, and provide fiber and vitamins.
 Dairy: A small amount of dairy in a glass (e.g., milk) or a cup (e.g., yogurt) is incorporated into the diet.
 
 1. Low-carb
@@ -78,7 +78,7 @@ Meal 2: Vegetarian
 
 [Create simple form for users to sign up]
 
-Nutritive, tasty and hassle-free meals are waiting for you. Start eating well today. You can cancel or pause anytime. And the first meal is on us!
+Nutritive, tasty, and hassle-free meals are waiting for you. Start eating well today. You can cancel or pause anytime. And the first meal is on us!
 
 ### We have 2 pricing plans
 
@@ -105,8 +105,8 @@ Complete: $515 per month
 
 [Photos of customers included]
 
-Great-tasting meals, and their timing was perfect. (Kamrul Hasan)
-They chooses the right meals for me every time. It's amazing not to worry about nutrition anymore! (Shaheen Ahmed)
+Great-tasting meals and their timing was perfect. (Kamrul Hasan)
+They choose the right meals for me every time. It's amazing not to worry about nutrition anymore! (Shaheen Ahmed)
 NutriFood is a life saver! I just started a new job, so there's no time for cooking! (Fahmida Arjuman)
 I got NutriFood for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic. (Jahanara Khan)
 
